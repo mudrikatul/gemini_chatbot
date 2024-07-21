@@ -21,10 +21,10 @@ genai.configure(api_key=API_KEY)
 
 st.image("./Google-Gemini-AI-Logo.png", width=200)
 st.write("Nama Kelompok:")
-st.write("- Username1")
-st.write("- Username2")
-st.write("- Username3")
-st.write("- Username4")
+st.write("- ISRAYATI")
+st.write("- FERDY TATANGINDATU")
+st.write("- FIVIN KAIMUDIN")
+st.write("- MUDRIKATUL QAMARIAH")
 
 gemini_pro, gemini_vision = st.tabs(["Chat with Text", "Chat with Image"])
 
